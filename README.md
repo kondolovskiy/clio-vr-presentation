@@ -7,3 +7,10 @@
 
 ## Development
 See docs on [Shower](https://github.com/shower/shower) page
+
+## Contributing
+### For collaborators
+1. Clone the repo
+2. Create a branch
+3. Add code
+4. Create PR
