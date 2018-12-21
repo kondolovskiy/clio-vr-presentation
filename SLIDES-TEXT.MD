@@ -12,3 +12,9 @@ Before we started development we did some investigation about technologies that 
 I guess you’ve already know what was our winner :)
 ### 7
 So, let’s see what we’ve created. I recommend you open link in your side, because the lags are possible.
+### 8
+And if we are talking about possibility of using we see it 
+in creation different education applications, for example it could
+be biology, chemistry, Physics and even History.
+Also we can use it for different skill training, distance learning
+and many others ways that is just limited of out imagination.
